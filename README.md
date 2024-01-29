@@ -1,0 +1,1 @@
+This is my repository to hold my practice code for different languages. Some examples may be from online. Some might be fun experiments I thought of.
