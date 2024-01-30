@@ -1,0 +1,3 @@
+[submodule "typescript/execution-reference.ts"]
+	path = typescript/execution-reference.ts
+	url = https://github.com/project-cataclysma/execution-reference.ts.git
